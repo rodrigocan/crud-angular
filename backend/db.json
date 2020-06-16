@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Lápis",
+      "price": "2",
+      "id": 1
+    },
+    {
+      "name": "Notebook HP",
+      "price": "3500",
+      "id": 2
+    },
+    {
+      "name": "Monitor LG 29' Ultrawide",
+      "price": "900",
+      "id": 3
+    }
+  ]
+}
